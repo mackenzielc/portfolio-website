@@ -1,0 +1,12 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.icons {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    font-size: 250%;
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
