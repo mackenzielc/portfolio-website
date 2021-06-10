@@ -1,2 +1,1 @@
-# portfolio-website
-My person portfolio
+My person portfolio: https://mackenzielc.github.io/portfolio-website/
